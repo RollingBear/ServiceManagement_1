@@ -1,0 +1,14 @@
+Face_Alarm
+Face_BulkControl
+Face_Cluster
+Face_DHGateWay
+Face_FaceFeatureSearch
+Face_FaceFeatureTrails
+Face_HKGateWay
+Face_Mosquitto
+Face_MovieImport
+Face_Nginx
+Face_PhotoImport
+Face_Storage
+Face_TaskSchedule
+Face_Tomcat
